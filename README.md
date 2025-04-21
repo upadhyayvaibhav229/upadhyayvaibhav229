@@ -1,7 +1,7 @@
 # Hi, I'm Vaibhav Upadhyay 👋
 🚀 Full-Stack Developer | React | Node.js | PHP | MySQL
 
-![Profile Views](https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue)
+![Profile Views]([https://komarev.com/ghpvc/?username=upadhyayvaibhav229&color=blue](https://portfolio-upadhyayvaibhav229s-projects.vercel.app/))
 
 <h3>A highly detail oriented and motivated tech professional, who is looking to start a career as a full stack developer. I have a passion to develop robust, maintainable and efficient applications for the end user. I am familiar with the MERN stack and have a good grasp of React, Redux, JavaScript and other backend platforms. The ideal candidate is passionate about learning, solving problems and developing solutions that create value and have a meaningful impact. The ideal candidate should also be interested in learning new technologies, contributing to open source projects and being part of the solution to challenging development problems.</h3>
 
