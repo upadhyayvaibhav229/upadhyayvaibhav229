@@ -46,7 +46,12 @@ Here’s your updated GitHub README with a **GitHub Streak** section added and *
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upadhyayvaibhav229\&show_icons=true\&theme=radical)
+<p align="left">
+    <a href="https://github.com/upadhyayvaibhav229">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=upadhyayvaibhav229&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
+    </a>
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyayvaibhav229\&layout=compact\&theme=radical)
 
