@@ -77,4 +77,3 @@ Here’s your updated GitHub README with a **GitHub Streak** section added and *
 
 ---
 
-Let me know if you'd like this turned into a downloadable `README.md` file.
