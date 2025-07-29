@@ -1,6 +1,3 @@
-Here’s your updated GitHub README with a **GitHub Streak** section added and **some key corrections** (like fixing broken image links, adding your real profile URLs, and formatting improvements):
-
----
 
 # Hi, I'm Vaibhav Upadhyay 👋
 
